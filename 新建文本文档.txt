@@ -1,11 +1,10 @@
-����2222222adf
-Javascript���и߼��γ�
-PHP��̨����
-�ֻ���webӦ�ÿ���
-Canvas��Ϸ��������
-ģ�黯�������ͼ������
-ǰ�˹��̻��������Ż�
-Vue��Angular��Nodejs�ȸ߼���ܼ�������
-΢��С���򿪷�
-��Ŀʵѵ
-rn  ��Ͽ���
+Javascript初中高级课程
+PHP后台开发
+手机端web应用开发
+Canvas游戏技术开发
+模块化与大数据图表分析
+前端工程化与性能优化
+Vue，Angular，Nodejs等高级框架技术开发
+微信小程序开发
+项目实训
+rn  混合开发
